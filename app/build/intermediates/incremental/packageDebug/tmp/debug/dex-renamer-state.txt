@@ -1,0 +1,7 @@
+#Thu Dec 09 15:55:23 ICT 2021
+base.0=E\:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

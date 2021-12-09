@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunset.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\drawable\\sunset.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wind.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\drawable\\wind.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pressure.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\drawable\\pressure.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_bg.xml.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_humidity.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\drawable\\humidity.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunrise.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\drawable\\sunrise.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\Weather_App\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android\\Weather_App\\WeatherApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
