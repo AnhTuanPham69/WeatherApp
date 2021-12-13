@@ -4,8 +4,10 @@ You can see the current weather and fun divination functions from the App
 
 # Team member
 
-Phạm Anh Tuấn
+Phạm Anh Tuấn </n>
+
 Đặng Thị Thu Sang
+
 Hồ Thị Lương
 
 # Link Report
